@@ -1,9 +1,4 @@
-# AirbnbIndustryProject
-
-Here’s a comprehensive README.md file for your Airbnb industry project:
-
-Airbnb Industry Project
-
+# Airbnb Industry Project
 
 **Overview**
 
