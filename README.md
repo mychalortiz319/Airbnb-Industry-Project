@@ -4,9 +4,11 @@ Here’s a comprehensive README.md file for your Airbnb industry project:
 
 Airbnb Industry Project
 
+
 **Overview**
 
 This project was a collaboration with Airbnb to explore how user data can be leveraged to improve their recommendation system. By analyzing listing data and applying machine learning techniques, we developed a scalable solution that enhances personalized recommendations for users.
+
 
 ***Key Features***
 
@@ -30,6 +32,7 @@ Figma-Designed Interfaces:
 Created high-fidelity interface prototypes in Figma.
 Focused on intuitive and user-friendly designs to ensure seamless user experience.
 
+
 ***Technologies Used***
 
 Programming: Python, JavaScript (React)
@@ -39,6 +42,7 @@ Clustering: K-Means, DBSCAN
 Visualization: Matplotlib, Seaborn
 Frontend Development: React
 Design and Prototyping: Figma
+
 
 **Goals Achieved**
 
